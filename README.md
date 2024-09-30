@@ -1,0 +1,2 @@
+# ML Enemies
+This project is designed to showcase how deep reinforcement learning algorithms can be used to design enemies for games that are responsive to player's actions and uniquely capable of adapting to in game threats. The hope is to design enemies that add more replayability to games through dynamic encounters that differ over time.
